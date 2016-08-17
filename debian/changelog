@@ -1,0 +1,12 @@
+ros-kinetic-thormang3-manipulation-module-msgs (0.1.0-0wily) wily; urgency=high
+
+  * modified package.xml
+  * added thormang3_action_module_msgs
+    added thormang3_feet_ft_module_msgs
+    added thormang3_manipulation_module_msgs
+    added thormang3_walking_module_msgs
+  * Contributors: Jay-Song, ROBOTIS-zerom, Pyo
+
+ -- Pyo <pyo@robotis.com>  Tue, 16 Aug 2016 15:00:00 -0000
+
+
