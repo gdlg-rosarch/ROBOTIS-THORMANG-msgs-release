@@ -1,0 +1,24 @@
+ros-kinetic-thormang3-wholebody-module-msgs (0.2.1-0xenial) xenial; urgency=high
+
+  * modified wholebody msgs
+  * Contributors: Jay Song
+
+ -- Pyo <pyo@robotis.com>  Thu, 01 Sep 2016 15:00:00 -0000
+
+ros-kinetic-thormang3-wholebody-module-msgs (0.2.0-0xenial) xenial; urgency=high
+
+  * wholebody msgs updated
+  * Contributors: SCH
+
+ -- Pyo <pyo@robotis.com>  Tue, 30 Aug 2016 15:00:00 -0000
+
+ros-kinetic-thormang3-wholebody-module-msgs (0.1.0-0xenial) xenial; urgency=high
+
+  * modified thormang3_wholebody_module_msgs/package.xml
+  * modified wholebody msgs
+  * added wholebody msgs
+  * Contributors: Jay Song, SCH, Pyo
+
+ -- Pyo <pyo@robotis.com>  Tue, 16 Aug 2016 15:00:00 -0000
+
+
